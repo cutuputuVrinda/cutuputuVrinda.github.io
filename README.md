@@ -24,5 +24,5 @@ As this readme file comes to an end, remember that life's too short not to indul
 
 **Note:** This message is purely for fun and portfolio-building practice. No code or readme file was harmed in the making of this flirtatious content. 😄
 
-![Image 1](https://cutuputuvrinda.github.io/images/image1.jpg)
-![Image 2](https://cutuputuvrinda.github.io/images/image2.jpg.webp)
+![Image 1]([https://cutuputuvrinda.github.io/images/image1.jpg](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/blob/main/Images/Image1.jpg))
+![Image 2]([https://cutuputuvrinda.github.io/images/](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/blob/main/Images/Image1.jpg)https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/blob/main/Images/Image2.jpg.webp)
