@@ -19,7 +19,8 @@ Alright, let's get down to business. This is a practice test, not a secret messa
 ### Closure and a Hint of Mystery 🔒
 As this readme file comes to an end, remember that life's too short not to indulge in a bit of playful banter. Stay awesome, Vrinda! 
 
-**Note:** This message is purely for fun and portfolio-building practice. No GPT was used in the making of this site. 😄 Please do check this website for regular updates.
+**Note:** This message is purely for fun and portfolio-building practice. No GPT was used in the making of this site. 😄 
+**In progress:** Please do check this website for regular updates.
 
 ![Image 1](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/raw/main/Images/Image1.jpg)
 ![Image 2](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/raw/main/Images/Image2.jpg.webp)
