@@ -14,7 +14,7 @@ Just like well-structured code, you've got that perfect syntax of charm. 😉
 Shit yar, sachai dik gayi
 
 ### About this "Practice Test" 💻
-Alright, let's get down to business. This is a practice test, not a secret love message (or is it?). I'm just flexing my coding muscles and putting my portfolio through its paces.
+Alright, let's get down to business. This is a practice test, not a secret message (or is it?). I'm just flexing my coding muscles and putting my portfolio through its paces.
 
 ### Closure and a Hint of Mystery 🔒
 As this readme file comes to an end, remember that life's too short not to indulge in a bit of playful banter. Stay awesome, Vrinda! 
