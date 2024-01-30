@@ -1,6 +1,6 @@
 # Readme File for Vrinda's Eyes Only 😉
 
-Hey Vrinda! 👋
+Hello Stranger! 👋
 I know I strangled Manoj on reddit, but I am glad that I met Vrinda.
 
 ### Gentle Reminders
