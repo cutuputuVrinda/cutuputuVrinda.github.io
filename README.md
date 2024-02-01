@@ -11,13 +11,13 @@ Just a quick note to brighten your day. Remember, assignments are like passing c
 I wanted to ask you out on a proper date, I dont mind texting and asking you directly, but I follow "वक्त के साथ आगे बढ़ें।" 
 
 So Vrinda Ji, will you do me the honors ?
-![Image 2](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/raw/main/Images/CheesyPickup1.jpg)
+![CheesyPickup1](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/raw/main/Images/CheesyPickup1.jpg)
 
 To offer you a pack of Gudang Garam
-![Image 3](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/raw/main/Images/CheesyPickup2.jpg)
+![CheesyPickup2](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/raw/main/Images/CheesyPickup2.jpg)
 
 and light a ciggaretter for you?
-![Image 4](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/raw/main/Images/CheesyPickup3.jpg)
+![CheesyPickup3](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/raw/main/Images/CheesyPickup3.jpg)
 
 "कर्म करो, फल की चिंता मत करो" might not always be true, but I like putting in some efforts for you.
 
