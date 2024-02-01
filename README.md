@@ -1,24 +1,36 @@
 # Readme File for Vrinda's Eyes Only 😉
-
-Hello Stranger! 👋
+Helluuu Stranger! 👋
 I know I strangled Manoj on reddit, but I am glad that I met Vrinda.
+![Image 1](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/raw/main/Images/Image1.jpg)
 
 ### Gentle Reminders
 Just a quick note to brighten your day. Remember, assignments are like passing clouds—here today, gone tomorrow. Don't stress too much; you're as awesome as they come!
 
-### Banter 💬
-Just like well-structured code, you've got that perfect syntax of charm. 😉
-Shit yar, sachai dik gayi.
-Alright, let's get down to business. This is a practice test, not a secret message (or is it?
+### Well Yes, Sometimes I may come across as a nerd, but I wanted to put in some genuine efforts to make you smile. I Love your Smile :))))).
 
-### YOLO 
+I wanted to ask you out on a proper date, I dont mind texting and asking you directly, but I follow "वक्त के साथ आगे बढ़ें।" 
 
+So Vrinda Ji, will you do me the honors ?
+![Image 2](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/raw/main/Images/CheesyPickup1.jpg)
 
-"I'd like to be the one to light your cigarette. Thank you for allowing me the chance to do so on your birthday."
-### Closure and a Hint of Mystery 🔒
+To offer you a pack of Gudang Garam
+![Image 3](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/raw/main/Images/CheesyPickup2.jpg)
+
+and light a ciggaretter for you?
+![Image 4](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/raw/main/Images/CheesyPickup3.jpg)
+
+"कर्म करो, फल की चिंता मत करो" might not always be true, but I like putting in some efforts for you.
+
+<!-- ### Closure and a Hint of Mystery 🔒
 As this readme file comes to an end, remember that life's too short not to indulge in a bit of playful banter. Stay awesome, Vrinda! 
 
-**Note:** This message is purely for fun and portfolio-building practice. No GPT was used in the making of this site. 😄 
+<!-- ### Banter 💬
+Just like well-structured code, you've got that perfect syntax of charm. 😉
+Shit yar, sachai dik gayi.
+Alright, let's get down to business. This is a practice test, not a secret message (or is it?) -->
+
+
+**Note:** This message is purely for fun and portfolio-building practice 😄 
 **In progress:** Please do check this website for regular updates.
 
-![Image 1](https://github.com/cutuputuVrinda/cutuputuVrinda.github.io/raw/main/Images/Image1.jpg)
+
